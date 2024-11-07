@@ -1,0 +1,23 @@
+"Projeto adote um amigo"
+
+- Problema a ser resolvido ?
+
+R- Como fazer um sistema de adoção de pets?
+
+- Problema ha ser resolvido ?
+
+- Como fazer o sistema ser utilizado ? 
+ 
+ 1° Organizar campanhas em redes sociais ou em evento fisicos para promover o uso da plataforma.
+ 2° Criar uma àrea de noticias dentro do site para educar as pessoas sobre a importancia da adoção, com boas praticas de SEO para atrair mais visitantes.
+ 3° Oferecer integração com redes sociais, compartilhando os animais em plataformas como Instagram e Facebook aumentando a visibilidade do pets
+ 4° Apoio de influenciadores, considerar parcerias com influenciadores digitais ou veterinários que possam divulga a plataforma e atrair mais pessoas interessadas em adoção.
+  
+ideas:
+- Ter uma ong em cada zona! Zona Oeste, Zona Sul, Zona norte e Zona Leste
+
+- Orientações para adotantes: Incluir guias e conteúdos educativos sobre como cuidar dos animais, adaptá-los ao novo lar e cumprir com as responsabilidades de ser um tutor responsável
+
+- Oferecer suporte após adoção, como conselhos veterinários e contatos com ONGs, para garantir o bem-estar dos pets adotadotados.
+
+- Criar perfis dedicados nas redes sociais, para divulgar os pets disponiveis para adoção.
